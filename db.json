@@ -1,0 +1,24 @@
+{
+  "todolist": [
+    {
+     "id": 1,
+     "name": "Membuat Header todo list di app"
+    },
+    {
+     "id": 2,
+     "name": "Beli video course untuk belajar"
+    },
+    {
+     "id": 3,
+     "name": "Pergi belanja untuk kebutuhan pokok"
+    },
+    {
+     "id": 4,
+     "name": "Buat algoritma dan jalur untuk apps"
+    },
+    {
+     "id": 5,
+     "name": "Check bugs error pada apps"
+    }
+  ]
+}
